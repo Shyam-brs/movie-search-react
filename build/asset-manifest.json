@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/buildriseshine/api/reactjs/movie-search/static/css/main.10509285.css",
-    "main.js": "/buildriseshine/api/reactjs/movie-search/static/js/main.c1d34ab7.js",
-    "static/js/787.b2dfefea.chunk.js": "/buildriseshine/api/reactjs/movie-search/static/js/787.b2dfefea.chunk.js",
-    "static/media/BG.png": "/buildriseshine/api/reactjs/movie-search/static/media/BG.0805d1c579b3eb137695.png",
-    "index.html": "/buildriseshine/api/reactjs/movie-search/index.html",
-    "main.10509285.css.map": "/buildriseshine/api/reactjs/movie-search/static/css/main.10509285.css.map",
-    "main.c1d34ab7.js.map": "/buildriseshine/api/reactjs/movie-search/static/js/main.c1d34ab7.js.map",
-    "787.b2dfefea.chunk.js.map": "/buildriseshine/api/reactjs/movie-search/static/js/787.b2dfefea.chunk.js.map"
+    "main.css": "/movie-search-react/static/css/main.9b256f09.css",
+    "main.js": "/movie-search-react/static/js/main.f2307453.js",
+    "static/js/787.b2dfefea.chunk.js": "/movie-search-react/static/js/787.b2dfefea.chunk.js",
+    "static/media/back-bg.jpg": "/movie-search-react/static/media/back-bg.b8ce058049878a2182ba.jpg",
+    "index.html": "/movie-search-react/index.html",
+    "main.9b256f09.css.map": "/movie-search-react/static/css/main.9b256f09.css.map",
+    "main.f2307453.js.map": "/movie-search-react/static/js/main.f2307453.js.map",
+    "787.b2dfefea.chunk.js.map": "/movie-search-react/static/js/787.b2dfefea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10509285.css",
-    "static/js/main.c1d34ab7.js"
+    "static/css/main.9b256f09.css",
+    "static/js/main.f2307453.js"
   ]
 }
